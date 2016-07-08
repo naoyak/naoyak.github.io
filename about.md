@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Naoya Kanai
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm Naoya, a cellist, data scientist, and all-around hacker based in the San Francisco Bay Area.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[naopon@gmail.com](mailto:naopon@gmail.com)
